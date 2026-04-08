@@ -4,7 +4,7 @@ Este repositorio contiene las releases de las aplicaciones de juego de **JuegaOn
 
 ## Aplicaciones Disponibles
 
-### 🎱 Bingo Online
+### 🎡🔮 Bingo Online
 
 - **Versión actual:** V1.0.0
 - **Plataforma:** Android
