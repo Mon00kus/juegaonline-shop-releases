@@ -9,7 +9,7 @@ Este repositorio contiene las releases de las aplicaciones de juego de **JuegaOn
 - **Versión actual:** V1.0.0
 - **Plataforma:** Android
 - **Descripción:** Aplicación de bingo en línea con sorteos en tiempo real, patrones de juego y premios.
-- **Archivo:** `app-release.apk`
+- **Archivo:** `bingo.apk`
 
 ## Cómo instalar
 
